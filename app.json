@@ -13,16 +13,16 @@
     "env": {
         "APP_ID": {
             "description": "ايبي ايدي",
-            "value": "",
+            "value": "21081318",
             "required": true
         },
         "APP_HASH": {
             "description": "ايبي هاش",
-            "value": "",
+            "value": "51312b0c5cb2f9414a015534d7b529a3",
             "required": true
         },
         "TERMUX": {
-            "description": "كود تيرمكس",
+            "description": "الباسور + التيرمكس + التحقق",
             "value": "",
             "required": true
         },
